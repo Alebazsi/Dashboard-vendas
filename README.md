@@ -1,4 +1,4 @@
-# 🚀 Projeto 3: Dashboard Interativo 
+# Dashboard Interativo 
 
 O objetivo é transformar dados brutos (`csv`) em insights visuais, permitindo a análise de performance por estado, categoria e métricas financeiras (KPIs) em tempo real.
 
