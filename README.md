@@ -42,6 +42,6 @@ projeto-3/
 ├── dados_vendas.csv    # Base de dados (Fonte)
 ├── README.md           # Documentação
 
---- 
+---
 
 **Desenvolvido por Alebazi**

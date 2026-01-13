@@ -57,7 +57,7 @@ grafico_estados = px.bar(
 )
 col_graf1.plotly_chart(grafico_estados, use_container_width=True)
 
-# Gráfico 2: Vendas por Categoria (Pizza)
+# Gráfico 2: Vendas por Categoria 
 grafico_categoria = px.pie(
     df_filtrado, 
     names="Categoria", 
