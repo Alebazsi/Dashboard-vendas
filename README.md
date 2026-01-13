@@ -1,7 +1,5 @@
 # 🚀 Projeto 3: Dashboard Interativo (Grand Finale)
 
-Este é o **Grand Finale** da trilha de projetos: um Dashboard Interativo de Vendas desenvolvido com **Python** e **Streamlit**. 
-
 O objetivo é transformar dados brutos (`csv`) em insights visuais, permitindo a análise de performance por estado, categoria e métricas financeiras (KPIs) em tempo real.
 
 ## 📊 Funcionalidades
